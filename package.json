@@ -1,0 +1,23 @@
+{
+  "name": "vbee",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx nodemon ./bin/www"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1088.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "lodash": "^4.17.21",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.15",
+    "yarn": "^1.22.17"
+  }
+}

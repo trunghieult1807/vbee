@@ -1,0 +1,17 @@
+{
+    "url": "https://vbee.vn/api/v1/convert-tts-api",
+    "data": {
+        "username": "0703799116",
+        "application_id": "dfbf61770b0a60571f390668",
+        "dictionary_id": "5cdc3c391f7aae0619218024",
+        "rate": 1,
+        "bit_rate": "128000",
+        "audio_type": "mp3",
+        "voice1": "sg_male_minhhoang_fast_news_48k_cs-thg",
+        "voice2": "sg_female_lantrinh_fast_vdts_48k_cs-thg",
+        "voice3": "sg_female_thaotrinh_fast_news_48k_cs-thg",
+        "input_type": "text",
+        "type_output": "link",
+        "url_callback_api": "https://mango-review-builder.herokuapp.com/vbee-callback"
+    }
+}
